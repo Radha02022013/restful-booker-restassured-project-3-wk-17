@@ -15,8 +15,8 @@ public class BookingCRUDTest extends TestBase {
 
     @Test
     public void test001() {
-        String fName = "Nis" + TestUtils.getRandomValue();
-        String lName = "Chit" + TestUtils.getRandomValue();
+        String fName = "Manini" + TestUtils.getRandomValue();
+        String lName = "Sheth" + TestUtils.getRandomValue();
         int totalPrice = 800;
         boolean depositPaid = true;
         HashMap<String, String> bookingDates = new HashMap<>();
