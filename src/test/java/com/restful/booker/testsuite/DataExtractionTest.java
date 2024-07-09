@@ -10,7 +10,7 @@ import java.util.List;
 
 import static io.restassured.RestAssured.given;
 
-public class DataAssertionTest extends TestBase {
+public class DataExtractionTest extends TestBase {
 
     static ValidatableResponse response;
 
